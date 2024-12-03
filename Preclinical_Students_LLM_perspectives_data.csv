@@ -1,0 +1,52 @@
+Column,Response,Count,Total Responses,Percentage
+How often are you using AI-based language models?,Weekly,10,38,26.32%
+,A few times/rarely,8,38,21.05%
+,Daily,6,38,15.79%
+,Monthly,4,38,10.53%
+"Have you used a large language model (e.g., ChatGPT, Doximity GPT, Google Bard, GPT-4, Bing Chat)?",Yes,34,38,89.47%
+,No,4,38,10.53%
+What have you used AI-based language models for? (Check all that apply) - Selected Choice,Other,2,38,5.26%
+,"Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources)",2,38,5.26%
+,"Generate differential diagnoses,Ask questions about medical management,Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards",1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers,Write manuscripts",1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Generate practice questions/flashcards",1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Generate practice questions/flashcards,Create marketing/advertising content (website/print/email/social)",1,38,2.63%
+,"Generate/identify photographs to help with diagnosis,Ask questions about medical management,Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards",1,38,2.63%
+,"Summarize EHR notes,Write EHR notes (medical record documentation),Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers,Write clinical or academic presentations,Create marketing/advertising content (website/print/email/social)",1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers",1,38,2.63%
+,Ask questions about medical management,1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Write clinical or academic presentations",1,38,2.63%
+,"Generate differential diagnoses,Ask questions about medical management,Summarize EHR notes,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers,Write clinical or academic presentations",1,38,2.63%
+,"Generate differential diagnoses,Summarize EHR notes,Generate response to a patient (email/letter/text),Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers",1,38,2.63%
+,"Generate differential diagnoses,Ask questions about medical management,Generate response to a patient (email/letter/text),Studying: Answer questions about topics,Summarize research papers,Other",1,38,2.63%
+,"Generate differential diagnoses,Ask questions about medical management,Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Summarize research papers",1,38,2.63%
+,"Generate response to a patient (email/letter/text),Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Summarize research papers,Write clinical or academic presentations",1,38,2.63%
+,"Ask questions about medical management,Summarize EHR notes,Write EHR notes (medical record documentation),Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers,Write manuscripts,Write clinical or academic presentations",1,38,2.63%
+,"Summarize EHR notes,Write EHR notes (medical record documentation),Studying: Answer questions about topics,Write manuscripts,Create marketing/advertising content (website/print/email/social)",1,38,2.63%
+,"Generate differential diagnoses,Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards",1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards",1,38,2.63%
+,"Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards,Summarize research papers,Write clinical or academic presentations",1,38,2.63%
+,"Studying: Summarize content (e.g. lectures, text resources),Studying: Generate practice questions/flashcards",1,38,2.63%
+,"Studying: Summarize content (e.g. lectures, text resources)",1,38,2.63%
+,"Generate response to a patient (email/letter/text),Studying: Answer questions about topics,Studying: Summarize content (e.g. lectures, text resources),Write clinical or academic presentations",1,38,2.63%
+,"Generate differential diagnoses,Ask questions about medical management,Studying: Answer questions about topics,Studying: Generate practice questions/flashcards,Summarize research papers,Write manuscripts,Create marketing/advertising content (website/print/email/social)",1,38,2.63%
+,Studying: Answer questions about topics,1,38,2.63%
+How accurate did you find AI-based language models?,Somewhat accurate (a few mistakes),19,38,50.00%
+,"Neither accurate nor inaccurate (a number of mistakes, but still useable)",5,38,13.16%
+,Extremely inaccurate (completely unusable),2,38,5.26%
+,Somewhat inaccurate (too many mistakes to use in most cases),2,38,5.26%
+"In a single output given to you by an AI-based language model, on average how many edits have you needed to make?",Minimal editing (less than 5 changes),12,38,31.58%
+,Moderate editing (5-10 changes),9,38,23.68%
+,Significant editing (greater than 10 changes),6,38,15.79%
+,No editing,1,38,2.63%
+Do you have any concerns about AI-based language models? (Check all that apply) - Selected Choice,"Concerns about privacy,Concerns about accuracy,Concerns about bias,Concerns about patients or non-physicians using it to get medical information",13,38,34.21%
+,"Concerns about accuracy,Concerns about bias,Concerns about patients or non-physicians using it to get medical information",3,38,7.89%
+,"Concerns about privacy,Concerns about accuracy,Concerns about bias",3,38,7.89%
+,Concerns about accuracy,2,38,5.26%
+,"Concerns about accuracy,Concerns about patients or non-physicians using it to get medical information",2,38,5.26%
+,"Concerns about privacy,Concerns about accuracy",1,38,2.63%
+,"No concerns,Concerns about privacy,Concerns about bias,Concerns about patients or non-physicians using it to get medical information",1,38,2.63%
+,"Concerns about accuracy,Concerns about bias,Concerns about patients or non-physicians using it to get medical information,Other",1,38,2.63%
+,No concerns,1,38,2.63%
+,"No concerns,Concerns about accuracy",1,38,2.63%
+,"Concerns about accuracy,Concerns about bias",1,38,2.63%
