@@ -1,0 +1,25 @@
+Question,Response,Count,Total Responses,Percentage
+Which of the following large language models have you used? (check all that apply) - Selected Choice,Chat GPT,21,23,91.30%
+Which of the following large language models have you used? (check all that apply) - Selected Choice,Google Bard,7,23,30.43%
+Which of the following large language models have you used? (check all that apply) - Selected Choice,Gemini,9,23,39.13%
+Which of the following large language models have you used? (check all that apply) - Selected Choice,Anthropic Claude,8,23,34.78%
+Which of the following large language models have you used? (check all that apply) - Selected Choice,Other,1,23,4.35%
+How many times have you used a large language model in the past year?,5 or more times,21,23,91.30%
+How many times have you used a large language model in the past year?,3-4 times,2,23,8.70%
+Have you ever used a large language model (including Chat GPT or any other AI models) to obtain information on your health?,Yes,21,23,91.30%
+Have you ever used a large language model (including Chat GPT or any other AI models) to obtain information on your health?,No,2,23,8.70%
+How often have you used a large language model for questions about your health in the past year?,5 or more times,7,17,41.18%
+How often have you used a large language model for questions about your health in the past year?,1-2 times,4,17,23.53%
+How often have you used a large language model for questions about your health in the past year?,3-4 times,5,17,29.41%
+How often have you used a large language model for questions about your health in the past year?,Never,1,17,5.88%
+Did you share with your doctor that you had used a large language model to ask about your health?,Yes,4,17,23.53%
+Did you share with your doctor that you had used a large language model to ask about your health?,No,11,17,64.71%
+Did you share with your doctor that you had used a large language model to ask about your health?,I haven't seen my doctor,2,17,11.76%
+How accurate did you feel the information was from the large language model about your health?,Very accurate (No mistakes),4,17,23.53%
+How accurate did you feel the information was from the large language model about your health?,Somewhat accurate (Few mistakes),13,17,76.47%
+Would you use a large language model to ask health questions in the future?,Yes,16,17,94.12%
+Would you use a large language model to ask health questions in the future?,No,1,17,5.88%
+Do you have any concerns around large language models for answering your healthcare questions? (select all that apply),None,2,17,11.76%
+Do you have any concerns around large language models for answering your healthcare questions? (select all that apply),Privacy,9,17,52.94%
+Do you have any concerns around large language models for answering your healthcare questions? (select all that apply),Accuracy,12,17,70.59%
+Do you have any concerns around large language models for answering your healthcare questions? (select all that apply),Bias,10,17,58.82%
