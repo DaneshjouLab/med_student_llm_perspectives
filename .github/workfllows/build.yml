@@ -1,12 +1,12 @@
 #
-# This source file is part of the  Daneshjou Lab projects
+# This source file is part of the Daneshjou Lab projects
 #
 # SPDX-FileCopyrightText: 2025 Stanford University and the project authors (see CONTRIBUTORS.md)
 #
 # SPDX-License-Identifier: MIT
 #
 
-name: Build and Test
+name: Build
 
 on:
   push:
@@ -43,3 +43,16 @@ jobs:
         run: pip install black[jupyter]
       - name: Check code formatting with Black
         run: black . --exclude '\.ipynb$'
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install
+      - name: Build application
+        run: npm run build
