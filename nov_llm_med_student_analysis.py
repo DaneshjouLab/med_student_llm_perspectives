@@ -1,9 +1,6 @@
-# """ Medical student LLM survey analysis.
+"""Module for processing medical student LLM survey analysis.
 
-# This script processes survey data regarding medical students' usage of
-# large language models. It reads a CSV file, drops unused columns, filters
-# responses, cleans dataframes, and exports CSV files for further analysis.
-# """
+"""
 
 from utils import process_csv_df, process_responses, clean_split_df
 
