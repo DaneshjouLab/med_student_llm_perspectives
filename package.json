@@ -4,6 +4,7 @@
     "description": "A project for analyzing medical student perspectives on large language models.",
     "main": "index.js",
     "scripts": {
+      "build": "echo \"No build step defined.\"",
       "lint": "eslint .",
       "start": "node index.js"
     },
