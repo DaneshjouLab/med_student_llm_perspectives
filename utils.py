@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+import functools as ft
 
 def process_csv_df(csv):
     df = pd.read_csv(csv, index_col=0, header=1)
